@@ -46,17 +46,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="..\..\..\..\..\..\..\Git\Генератор случайных чисел\Form1.cs">
-      <SubType>Form</SubType>
+    <Compile Include="C:\Users\vkhromenko\Documents\Visual Studio 2015\Projects\MyUtils\MyUtils\Form1.cs">
       <Link>Form1.cs</Link>
+      <SubType>Form</SubType>
     </Compile>
-    <Compile Include="..\..\..\..\..\..\..\Git\Генератор случайных чисел\Form1.Designer.cs">
+    <Compile Include="C:\Users\vkhromenko\Documents\Visual Studio 2015\Projects\MyUtils\MyUtils\Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
       <Link>Form1.Designer.cs</Link>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="..\..\..\..\..\..\..\Git\Генератор случайных чисел\Form1.resx">
+    <EmbeddedResource Include="C:\Users\vkhromenko\Documents\Visual Studio 2015\Projects\MyUtils\MyUtils\Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
       <Link>Form1.resx</Link>
     </EmbeddedResource>
